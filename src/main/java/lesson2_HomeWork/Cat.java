@@ -21,6 +21,10 @@ public class Cat implements iAnimal{
         return age;
     }
 
+    public String getName() {
+        return name;
+    }
+
     @Override
     public void setAge(int age) {
         this.age = age;
@@ -41,8 +45,5 @@ public class Cat implements iAnimal{
     @Override
     public void rename(String newName) {
         this.name = newName;
-    }
-    public void holiday(Integer numberHolidays) {
-        this.weight = weight + numberHolidays * 0.1;
     }
 }

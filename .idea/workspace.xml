@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39a5cf89-6fa0-4631-a789-6bec106d0dba" name="Changes" comment="" />
+    <list default="true" id="39a5cf89-6fa0-4631-a789-6bec106d0dba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/ClassWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/ClassWork/NumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/ClassWork/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/ClassWork/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_1/IConstPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_1/iConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_3/MyIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_3/MyIfPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_3/Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_4/iStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2_5/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/ClassWork/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/ClassWork/NumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/ClassWork/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/ClassWork/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_1/IConstPlay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_1/iConst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_3/MyIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_3/MyIfPlay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_3/Play.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_4/iStat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_HomeWork/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_HomeWork/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2_HomeWork/iAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2_HomeWork/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2_HomeWork/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2_HomeWork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2_HomeWork/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson2_HomeWork/iAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson2_HomeWork/iAnimal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +47,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,15 +68,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
